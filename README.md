@@ -1,15 +1,15 @@
 # Gedit_GCC_Plugin
 A Simple Plugin To Auto Save, Compile and Run code in gedit itself.
 
-This script makes use of [Gedit Text Editor](https://wiki.gnome.org/Apps/Gedit)
+This script is for [Gedit Text Editor](https://wiki.gnome.org/Apps/Gedit "Gedit Official Site")
 
 <p align="center">
-<img src="https://wiki.gnome.org/Apps/Gedit?action=AttachFile&do=get&target=gedit-logo.png">
+<img alt="Gedit Logo" src="https://wiki.gnome.org/Apps/Gedit?action=AttachFile&do=get&target=gedit-logo.png">
 </p>
 Gedit is the default text editor of the GNOME desktop environment and part of the GNOME Core Applications. Designed as a general-purpose text editor, gedit emphasizes simplicity and ease of use, with a clean and simple GUI, according to the philosophy of the GNOME project.It includes tools for editing source code and structured text such as markup language.
-Source Code [here](https://git.gnome.org/browse/gedit/)
+Source Code [here](https://git.gnome.org/browse/gedit/ "Gedit Source Code")
  <p align="center">   
-<img src="http://gcc.gnu.org/img/gccegg-65.png">
+<img alt="GCC Logo" src="http://gcc.gnu.org/img/gccegg-65.png">
 </p>
 The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. GCC is a key component of the GNU toolchain and the standard compiler for most Unix-like operating systems. The Free Software Foundation (FSF) distributes GCC under the GNU General Public License (GNU GPL). GCC has played an important role in the growth of free software, as both a tool and an example.
 
@@ -22,7 +22,7 @@ Prerequisites
 
 3.This script is written for 'gnome-terminal' using 'bash' interpreter(The default for Ubuntu OS).
 
-################For One-Step Solution(Ubuntu Only)################
+######For One-Step Solution(Ubuntu Only)######
 
 Open Gnome-Terminal(default Terminal) and write-
 ***************************************************
