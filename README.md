@@ -12,7 +12,7 @@ Gedit is the default text editor of the GNOME desktop environment and part of th
 </p>
 The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. GCC is a key component of the GNU toolchain and the standard compiler for most Unix-like operating systems. The Free Software Foundation (FSF) distributes GCC under the GNU General Public License (GNU GPL). GCC has played an important role in the growth of free software, as both a tool and an example.
 
-## Prerequisites
+## Pre-requisites
 
 1.For this script to work, enable External Tools Plugin inside Gedit.Go to Edit->Preferences->Plugins and check "External Tools" plugin.
 
