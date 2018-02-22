@@ -28,14 +28,13 @@ Open Gnome-Terminal(default Terminal) and write-
 ***************************************************
 sudo apt install build-essential gedit gedit-common
 ***************************************************
-*******
 Install
 
 1.Clone the Repository or Download as Zip.
 
 2.Extract the files.
 
-3.Open the files in File Manager.
+3.Open the folder in File Manager.
 
 4.Right Click in the open window and click 'Open in Terminal'.
 
