@@ -3,14 +3,14 @@ A Simple Plugin To Auto Save, Compile and Run code in gedit itself.
 
 This script makes use of [Gedit Text Editor](https://wiki.gnome.org/Apps/Gedit)
 
-![Gedit Logo](https://wiki.gnome.org/Apps/Gedit?action=AttachFile&do=get&target=gedit-logo.png)
+<img align="center" src="https://wiki.gnome.org/Apps/Gedit?action=AttachFile&do=get&target=gedit-logo.png">
 
 Gedit is the default text editor of the GNOME desktop environment and part of the GNOME Core Applications. Designed as a general-purpose text editor, gedit emphasizes simplicity and ease of use, with a clean and simple GUI, according to the philosophy of the GNOME project.It includes tools for editing source code and structured text such as markup language.
 Source Code [here](https://git.gnome.org/browse/gedit/)
     
-The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. GCC is a key component of the GNU toolchain and the standard compiler for most Unix-like operating systems. The Free Software Foundation (FSF) distributes GCC under the GNU General Public License (GNU GPL). GCC has played an important role in the growth of free software, as both a tool and an example.
+<img align="center" src="http://gcc.gnu.org/img/gccegg-65.png">
 
-![GCC](http://gcc.gnu.org/img/gccegg-65.png)
+The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. GCC is a key component of the GNU toolchain and the standard compiler for most Unix-like operating systems. The Free Software Foundation (FSF) distributes GCC under the GNU General Public License (GNU GPL). GCC has played an important role in the growth of free software, as both a tool and an example.
 
 *************
 Prerequisites
