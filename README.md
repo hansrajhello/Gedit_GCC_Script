@@ -44,4 +44,4 @@ Install
 bash gcc.sh
 ***********
 
-6.You are good to go. After you finish writing Code, press <Ctrl><Shift>G to Save, Compile and Run your code.
+6.You are good to go. After you finish writing Code, press Ctrl-Shift-G to Save, Compile and Run your code.
