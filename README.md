@@ -25,6 +25,7 @@ The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Proje
 Open Gnome-Terminal(default Terminal) and write-
 ***************************************************
 sudo apt update && sudo apt upgrade #(optional, for system update only)
+
 sudo apt install build-essential gedit gedit-common
 ***************************************************
 ## Install
