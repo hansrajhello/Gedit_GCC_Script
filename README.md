@@ -6,8 +6,7 @@ This script is for [Gedit Text Editor](https://wiki.gnome.org/Apps/Gedit "Gedit 
 <p align="center">
 <img alt="Gedit Logo" src="https://wiki.gnome.org/Apps/Gedit?action=AttachFile&do=get&target=gedit-logo.png">
 </p>
-Gedit is the default text editor of the GNOME desktop environment and part of the GNOME Core Applications. Designed as a general-purpose text editor, gedit emphasizes simplicity and ease of use, with a clean and simple GUI, according to the philosophy of the GNOME project.It includes tools for editing source code and structured text such as markup language.
-Source Code [here](https://git.gnome.org/browse/gedit/ "Gedit Source Code")
+Gedit is the default text editor of the GNOME desktop environment and part of the GNOME Core Applications. Designed as a general-purpose text editor, gedit emphasizes simplicity and ease of use, with a clean and simple GUI, according to the philosophy of the GNOME project.It includes tools for editing source code and structured text such as markup language
  <p align="center">   
 <img alt="GCC Logo" src="http://gcc.gnu.org/img/gccegg-65.png">
 </p>
