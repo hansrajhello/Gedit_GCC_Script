@@ -21,6 +21,7 @@ Prerequisites
 2.You need GCC compiler installed.
 
 3.This script is written for 'gnome-terminal' using 'bash' interpreter(The default for Ubuntu OS).
+**********************************************
 
 ######For One-Step Solution(Ubuntu Only)######
 
