@@ -1,7 +1,7 @@
 # Gedit_GCC_Plugin
 A Simple Script To Auto Save, Compile and Run code in gedit itself.(Using "External Tools")
 
-This script is for [Gedit Text Editor](https://wiki.gnome.org/Apps/Gedit "Gedit Official Site")
+This script is for [Gedit Text Editor]("https://raw.githubusercontent.com/AvyChanna/Gedit_GCC_Script/master/.images/Gedit%20Logo.png")
 
 <p align="center">
 <img alt="Gedit Logo" src="https://wiki.gnome.org/Apps/Gedit?action=AttachFile&do=get&target=gedit-logo.png">
