@@ -20,10 +20,11 @@ The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Proje
 
 3.This script is written for 'gnome-terminal' using 'bash' interpreter(The default for Ubuntu OS).
 
-### For One-Step Solution(Ubuntu Only)
+#### For One-Step Solution(Ubuntu Only)
 
 Open Gnome-Terminal(default Terminal) and write-
 ***************************************************
+sudo apt update && sudo apt upgrade #(optional, for system update only)
 sudo apt install build-essential gedit gedit-common
 ***************************************************
 ## Install
