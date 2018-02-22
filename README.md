@@ -8,7 +8,7 @@ This script is for [Gedit Text Editor](https://wiki.gnome.org/Apps/Gedit "Gedit 
 </p>
 Gedit is the default text editor of the GNOME desktop environment and part of the GNOME Core Applications. Designed as a general-purpose text editor, gedit emphasizes simplicity and ease of use, with a clean and simple GUI, according to the philosophy of the GNOME project.It includes tools for editing source code and structured text such as markup language
  <p align="center">   
-<img alt="GCC Logo" src="http://gcc.gnu.org/img/gccegg-65.png">
+<img alt="GCC Logo" src="https://raw.githubusercontent.com/AvyChanna/Gedit_GCC_Script/master/.images/GCC%20Logo.png">
 </p>
 The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. GCC is a key component of the GNU toolchain and the standard compiler for most Unix-like operating systems. The Free Software Foundation (FSF) distributes GCC under the GNU General Public License (GNU GPL). GCC has played an important role in the growth of free software, as both a tool and an example.
 
