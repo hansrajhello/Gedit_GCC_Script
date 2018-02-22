@@ -1,5 +1,5 @@
 # Gedit_GCC_Plugin
-A Simple Plugin To Auto Save, Compile and Run code in gedit itself.
+A Simple Script To Auto Save, Compile and Run code in gedit itself.(Using "External Tools")
 
 This script is for [Gedit Text Editor](https://wiki.gnome.org/Apps/Gedit "Gedit Official Site")
 
