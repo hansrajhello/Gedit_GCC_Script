@@ -41,7 +41,10 @@ sudo apt install build-essential gedit gedit-common
 5.In the terminal,write-
 
 ***********
-bash gcc.sh
+./gcc.sh
 ***********
 
 6.You are good to go. After you finish writing Code, press Ctrl-Shift-G to Save, Compile and Run your code.
+
+### Precautions
+1. Do not run as root. Use './gcc.sh' or 'bash gcc.sh' instead of 'sudo bash gcc.sh'
