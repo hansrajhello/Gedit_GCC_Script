@@ -10,29 +10,35 @@ Source Code [here](https://git.gnome.org/browse/gedit/)
 The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. GCC is a key component of the GNU toolchain and the standard compiler for most Unix-like operating systems. The Free Software Foundation (FSF) distributes GCC under the GNU General Public License (GNU GPL). GCC has played an important role in the growth of free software, as both a tool and an example.
 ![GCC](http://gcc.gnu.org/img/gccegg-65.png)
 
-*************
 Prerequisites
 *************
 1.For this script to work, enable External Tools Plugin inside Gedit.Go to Edit->Preferences->Plugins and check "External Tools" plugin.
+
 2.You need GCC compiler installed.
+
 3.This script is written for 'gnome-terminal' using 'bash' interpreter(The default for Ubuntu OS).
 
 ################For One-Step Solution(Ubuntu Only)################
+
 Open Gnome-Terminal(default Terminal) and write-
-
+***************************************************
 sudo apt install build-essential gedit gedit-common
+***************************************************
 
-*******
 Install
 *******
 1.Clone the Repository or Download as Zip.
+
 2.Extract the files.
+
 3.Open the files in File Manager.
+
 4.Right Click in the open window and click 'Open in Terminal'.
+
 5.In the terminal,write-
 
+***********
 bash gcc.sh
+***********
 
 6.You are good to go. After you finish writing Code, press <Ctrl><Shift>G to Save, Compile and Run your code.
- 
- 
