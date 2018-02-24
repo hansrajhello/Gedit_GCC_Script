@@ -10,7 +10,7 @@ loda='#!/bin/bash
 # Shortcut=<Primary><Shift>g
 # Save-files=document
 # Output=nothing
-# Name=Avneet
+# Name=GCC_Compile
 
 gnome-terminal -x bash -c "gcc \"$GEDIT_CURRENT_DOCUMENT_NAME\" -o \"${GEDIT_CURRENT_DOCUMENT_NAME%.*}\".out && ./\"${GEDIT_CURRENT_DOCUMENT_NAME%.*}\".out && echo $'\''\nPress Any Key To Exit'\'' || echo $'\''\nCompilation Terminated.'\'' && read -n1" --working-directory=$GEDIT_CURRENT_DOCUMENT_DIR'
 echo "$loda">$HOME/.config/gedit/tools/new-tool
