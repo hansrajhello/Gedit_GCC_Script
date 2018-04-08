@@ -23,11 +23,11 @@ The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Proje
 #### For One-Step Solution(Ubuntu Only)
 
 Open Gnome-Terminal(default Terminal) and write-
-***************************************************
+```bash
 sudo apt update && sudo apt upgrade #(optional, for system update only)
 
 sudo apt install build-essential gedit gedit-common
-***************************************************
+```
 ## Install
 
 1.Clone the Repository or Download as Zip.
@@ -39,10 +39,9 @@ sudo apt install build-essential gedit gedit-common
 4.Right Click in the open window and click 'Open in Terminal'.
 
 5.In the terminal,write-
-
-***********
+```bash
 ./gcc.sh
-***********
+```
 
 6.You are good to go. After you finish writing Code, press Ctrl-Shift-G to Save, Compile and Run your code.
 
