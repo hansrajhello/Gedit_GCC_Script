@@ -3,7 +3,7 @@ command -v gedit >/dev/null 2>&1 || { echo >&2 "Gedit is not installed.  Abortin
 command -v gcc >/dev/null 2>&1 || { echo >&2 "GCC is not installed.  Aborting."; exit 1; }
 mkdir -p ~/.config/gedit/
 sudo chown $USER ~/.config/gedit/
-loda='#!/bin/bash
+plugin_code='#!/bin/bash
 # [Gedit Tool]
 # Applicability=always
 # Input=nothing
@@ -13,7 +13,7 @@ loda='#!/bin/bash
 # Name=GCC_Compile
 
 gnome-terminal -x bash -c "gcc \"$GEDIT_CURRENT_DOCUMENT_NAME\" -o \"${GEDIT_CURRENT_DOCUMENT_NAME%.*}\".out && ./\"${GEDIT_CURRENT_DOCUMENT_NAME%.*}\".out && echo $'\''\nPress Any Key To Exit'\'' || echo $'\''\nCompilation Terminated.'\'' && read -n1" --working-directory=$GEDIT_CURRENT_DOCUMENT_DIR'
-echo "$loda">$HOME/.config/gedit/tools/new-tool
+echo "$plugin_code">$HOME/.config/gedit/tools/new-tool
 sudo chown $USER $HOME/.config/gedit/tools/new-tool
 chmod +775 $HOME/.config/gedit/tools/new-tool
 exit 0
